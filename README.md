@@ -6,6 +6,9 @@ To start your Phoenix server:
   * Create and migrate your database with `mix ecto.setup`
   * Install Node.js dependencies with `npm install` inside the `assets` directory
   * Start Phoenix endpoint with `mix phx.server`
+  * In a new terminal, jump into `frontend` folder with `cd frontend`
+  * Run `flutter run`
+  * Backend and frontend should now be able to connect.
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
